@@ -232,7 +232,6 @@
     "packageManager": "pnpm@9.15.4",
     "pnpm": {
         "onlyBuiltDependencies": [
-            "bufferutil",
             "core-js",
             "es5-ext",
             "esbuild",
@@ -245,7 +244,6 @@
             "sharp",
             "sleep",
             "unrs-resolver",
-            "utf-8-validate",
             "vue-demi",
             "workerd",
             "wrangler"
@@ -271,4 +269,5 @@
         }
     }
 }
+
 
